@@ -1,0 +1,16 @@
+{
+  "name": "mmm-bp_monitoring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MMM-BP_Monitoring.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^2.7.0",
+    "express": "^4.19.2",
+    "sqlite3": "^5.1.7"
+  }
+}
